@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="capa2019C++.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75633418"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="BACKGROUND"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#282828;fill-opacity:1;stroke-width:1.04200017"
+       id="rect849"
+       width="210"
+       height="297"
+       x="-3.5527137e-15"
+       y="2.8421709e-14" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="C++"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       transform="translate(3.5999999e-7,2.7454619)"
+       id="g896">
+      <g
+         id="g916"
+         transform="translate(24.701461,55.033336)">
+        <g
+           transform="matrix(1.6364394,0,0,1.6364394,-19.637273,96.365191)"
+           id="g847">
+          <path
+             inkscape:connector-curvature="0"
+             style="opacity:0.2"
+             d="M 14.5,8 C 13.115,8 12,9.115 12,10.5 v 45 c 0,1.385 1.115,2.5 2.5,2.5 h 35 C 50.885,58 52,56.885 52,55.5 V 23 L 38.25,21.75 37,8 Z"
+             id="path815" />
+          <path
+             style="fill:#e4e4e4"
+             inkscape:connector-curvature="0"
+             d="M 14.5,7 C 13.115,7 12,8.115 12,9.5 v 45 c 0,1.385 1.115,2.5 2.5,2.5 h 35 C 50.885,57 52,55.885 52,54.5 V 22 L 38.25,20.75 37,7 Z"
+             id="path817" />
+          <path
+             inkscape:connector-curvature="0"
+             style="opacity:0.2"
+             d="m 37,8 v 12.5 c 0,1.3808 1.1193,2.5 2.5,2.5 H 52 Z"
+             id="path819" />
+          <path
+             style="fill:#fafafa"
+             inkscape:connector-curvature="0"
+             d="m 37,7 v 12.5 c 0,1.3808 1.1193,2.5 2.5,2.5 H 52 Z"
+             id="path821" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#0180cd"
+             d="m 30,29 c -6.075,0 -11,4.925 -11,11 0,6.075 4.925,11 11,11 v -4 a 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
+             id="path823" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#01559d"
+             d="m 37,29 v 3 h -3 v 3 h 3 v 3 h 3 v -3 h 3 v -3 h -3 v -3 z"
+             id="path825" />
+          <path
+             inkscape:connector-curvature="0"
+             style="opacity:0.2;fill:#ffffff"
+             d="M 14.5,7 C 13.115,7 12,8.115 12,9.5 v 1 C 12,9.115 13.115,8 14.5,8 H 37 c 0,-1 0,0 0,-1 z"
+             id="path827" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 37,42 v 3 h -3 v 3 h 3 v 3 h 3 v -3 h 3 v -3 h -3 v -3 z"
+             style="fill:#01559d"
+             id="path829" />
+        </g>
+        <g
+           transform="matrix(0.24236458,0,0,0.24236458,86.433516,106.771)"
+           id="g895">
+          <path
+             style="fill:#00599c"
+             inkscape:connector-curvature="0"
+             d="M 302.107,258.262 C 304.508,254.103 306,249.417 306,245.209 V 99.14 c 0,-4.208 -1.49,-8.893 -3.892,-13.052 L 153,172.175 Z"
+             id="path861" />
+          <path
+             style="fill:#004482"
+             inkscape:connector-curvature="0"
+             d="m 166.25,341.193 126.5,-73.034 c 3.644,-2.104 6.956,-5.737 9.357,-9.897 L 153,172.175 3.893,258.263 c 2.401,4.159 5.714,7.793 9.357,9.896 l 126.5,73.034 c 7.287,4.208 19.213,4.208 26.5,0 z"
+             id="path863" />
+          <path
+             style="fill:#659ad2"
+             inkscape:connector-curvature="0"
+             d="m 302.108,86.087 c -2.402,-4.16 -5.715,-7.793 -9.358,-9.897 L 166.25,3.156 c -7.287,-4.208 -19.213,-4.208 -26.5,0 L 13.25,76.19 C 5.962,80.397 0,90.725 0,99.14 v 146.069 c 0,4.208 1.491,8.894 3.893,13.053 L 153,172.175 Z"
+             id="path865" />
+          <g
+             id="g869">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 153,274.175 c -56.243,0 -102,-45.757 -102,-102 0,-56.243 45.757,-102 102,-102 36.292,0 70.139,19.53 88.331,50.968 l -44.143,25.544 C 188.083,130.951 171.15,121.175 153,121.175 c -28.122,0 -51,22.878 -51,51 0,28.121 22.878,51 51,51 18.152,0 35.085,-9.776 44.191,-25.515 l 44.143,25.543 c -18.192,31.441 -52.04,50.972 -88.334,50.972 z"
+               id="path867" />
+          </g>
+          <g
+             id="g873">
+            <polygon
+               style="fill:#ffffff"
+               points="243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 221,166.508 221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 "
+               id="polygon871" />
+          </g>
+          <g
+             id="g877">
+            <polygon
+               style="fill:#ffffff"
+               points="286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 "
+               id="polygon875" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="SYMBOLS"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g875"
+       transform="translate(0,-17.381031)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:23.81176186px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.595294"
+         x="104.52048"
+         y="80.845779"
+         id="text921"><tspan
+           sodipodi:role="line"
+           id="tspan919"
+           x="110.17043"
+           y="80.845779"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;line-height:0px;font-family:Computerfont;-inkscape-font-specification:Computerfont;text-align:center;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.595294"
+           dy="0">I </tspan><tspan
+           sodipodi:role="line"
+           x="110.17043"
+           y="110.61048"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;line-height:0px;font-family:Computerfont;-inkscape-font-specification:Computerfont;text-align:center;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.595294"
+           id="tspan927">Speak </tspan><tspan
+           sodipodi:role="line"
+           x="110.17043"
+           y="140.37518"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;line-height:0px;font-family:Computerfont;-inkscape-font-specification:Computerfont;text-align:center;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.595294"
+           id="tspan923">English </tspan><tspan
+           sodipodi:role="line"
+           x="104.52048"
+           y="170.13989"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;line-height:0px;font-family:Computerfont;-inkscape-font-specification:Computerfont;text-align:center;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.595294"
+           id="tspan925">And:</tspan></text>
+    </g>
+  </g>
+</svg>
