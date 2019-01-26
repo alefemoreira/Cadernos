@@ -28,15 +28,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.75633418"
      inkscape:cx="127.78943"
-     inkscape:cy="296.82646"
+     inkscape:cy="561.25984"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4656"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     objecttolerance="1"
-     guidetolerance="1"
+     objecttolerance="20"
+     guidetolerance="20"
      inkscape:window-width="1920"
      inkscape:window-height="1040"
      inkscape:window-x="0"
@@ -57,8 +57,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Fundo"
-     sodipodi:insensitive="true">
+     inkscape:label="Fundo">
     <rect
        id="rect4551"
        width="210"
@@ -86,7 +85,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="GIT">
+     inkscape:label="GIT"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        transform="matrix(0.54708555,0,0,-0.54708555,79.864897,70.443347)"
@@ -124,7 +124,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="SYMBOLS"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g4656"
